@@ -1,9 +1,5 @@
 # Álgebra I — Primer cuatrimestre de 2013
 
-## Equipo docente
-
-- **Clases teóricas:** Juan José Guccione, Fernando Cukierman, Constanza Sánchez de la Vega
-
 ## Prácticas
 
 - [Práctica 1 - Conjuntos](practica1-1ro2013.pdf)
@@ -18,13 +14,6 @@
 ## Apuntes y notas
 
 - [notas alg1](notas-alg1.pdf)
-
-## Bibliografía
-
-- Notas de Ariel Pacetti y Matías Graña- PDF
-- Conjuntos, relaciones y funciones, por Susana Puddu- PDF
-- Números naturales, principio de inducción, por Susana Puddu- PDF
-- Combinatoria, por Susana Puddu- PDF
 
 ## Página original
 
